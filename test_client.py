@@ -6,7 +6,7 @@ import numpy as np
 from datetime import datetime
 
 async def test_client():
-    uri = "ws://localhost:8808/ws"
+    uri = "wss://stt.edulive.net/ws"
     
     # Audio settings
     RATE = 16000

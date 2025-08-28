@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Icon?
+Icon?
+
+# Thumbnails
+ehthumbs.db
+Thumbs.db
+
+# macOS metadata
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# VSCode (nếu có dùng)
+.vscode/
+
+# Python (nếu có dùng)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# NodeJS (nếu có dùng)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build/Output
+dist/
+build/
+out/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+*.tmp
